@@ -8,7 +8,9 @@ desktop.ini
 
 # Report files
 *.mop
-*Report).txt
+*.txt
+*.csv
+*.htm
 
 # Exported images and docs
 *.bmp
@@ -17,7 +19,6 @@ desktop.ini
 *.pdf
 
 # Production files
-*.gbr
 *.gmo
 *.gbp
 *.gbs
@@ -27,5 +28,6 @@ desktop.ini
 *.gts
 *.gtl
 *.gto
+*.gbr
 
 *.zip
